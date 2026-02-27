@@ -1,0 +1,16 @@
+# Deep Learning & Computer Vision
+torch>=1.9.0
+torchvision>=0.10.0
+Pillow>=8.0.0
+numpy>=1.19.0
+
+# NLP & Text Processing
+nltk>=3.6.0
+
+# Evaluation Metrics
+pycocoevalcap>=1.0
+
+# Utilities
+tqdm>=4.60.0
+matplotlib>=3.4.0
+scipy>=1.6.0

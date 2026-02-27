@@ -1,0 +1,28 @@
+Using device: cpu
+Vocabulary saved to checkpoints/vocab.json
+Vocabulary size: 228
+Total dataset size: 298
+Train size: 208
+Validation size: 44
+Test size: 46
+Epoch [1/10] Train Loss: 3.9622 Val Loss: 2.8424
+Mdel saved.
+Epoch [2/10] Train Loss: 2.4839 Val Loss: 2.2564
+Mdel saved.
+Epoch [3/10] Train Loss: 2.0870 Val Loss: 2.0067
+Mdel saved.
+Epoch [4/10] Train Loss: 1.8529 Val Loss: 1.8616
+Mdel saved.
+Epoch [5/10] Train Loss: 1.6854 Val Loss: 1.7897
+Mdel saved.
+Epoch [6/10] Train Loss: 1.5252 Val Loss: 1.7722
+Mdel saved.
+Epoch [7/10] Train Loss: 1.5437 Val Loss: 1.7551
+Mdel saved.
+Epoch [8/10] Train Loss: 1.5098 Val Loss: 1.7418
+Mdel saved.
+Epoch [9/10] Train Loss: 1.4756 Val Loss: 1.7290
+Mdel saved.
+Epoch [10/10] Train Loss: 1.4689 Val Loss: 1.7194
+Mdel saved.
+Training Completed

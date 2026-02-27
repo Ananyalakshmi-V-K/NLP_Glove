@@ -1,0 +1,8 @@
+{
+  "checkpoint": "checkpoints/best_model.pth",
+  "device": "cpu",
+  "test_samples": 44,
+  "BLEU-4": 0.182,
+  "METEOR": 0.562,
+  "CIDEr": 0.3306
+}
